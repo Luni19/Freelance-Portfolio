@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Freelance-Portfolio/static/css/main.a92095ca.css",
+    "main.js": "/Freelance-Portfolio/static/js/main.352b0022.js",
+    "static/media/04-big.jpg": "/Freelance-Portfolio/static/media/04-big.e97a7f2ea3626c55d781.jpg",
+    "static/media/01-big.jpg": "/Freelance-Portfolio/static/media/01-big.ecb03349664096d93b17.jpg",
+    "static/media/03-big.jpg": "/Freelance-Portfolio/static/media/03-big.ae5b85bc5cb590dc249a.jpg",
+    "static/media/05-big.jpg": "/Freelance-Portfolio/static/media/05-big.f315645c87f1dfe5c2c6.jpg",
+    "static/media/02-big.jpg": "/Freelance-Portfolio/static/media/02-big.55e8268286a008f0aa84.jpg",
+    "static/media/06-big.jpg": "/Freelance-Portfolio/static/media/06-big.4441eef022b53f59d1be.jpg",
+    "static/media/04.jpg": "/Freelance-Portfolio/static/media/04.7dbee9284ab2de2efff7.jpg",
+    "static/media/01.jpg": "/Freelance-Portfolio/static/media/01.5a26b040c9f955881765.jpg",
+    "static/media/03.jpg": "/Freelance-Portfolio/static/media/03.f29e71ebd8e06f95efe5.jpg",
+    "static/media/05.jpg": "/Freelance-Portfolio/static/media/05.0ac19ff77af643133432.jpg",
+    "static/media/06.jpg": "/Freelance-Portfolio/static/media/06.ff3e34e6cc4e8c5ffd93.jpg",
+    "static/media/02.jpg": "/Freelance-Portfolio/static/media/02.da60cd5f023c6b15ec34.jpg",
+    "static/media/Abstract.png": "/Freelance-Portfolio/static/media/Abstract.349151e5ca2595e82381.png",
+    "static/media/gitHub.svg": "/Freelance-Portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/Freelance-Portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/Freelance-Portfolio/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/linkedIn.svg": "/Freelance-Portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/Freelance-Portfolio/index.html",
+    "main.a92095ca.css.map": "/Freelance-Portfolio/static/css/main.a92095ca.css.map",
+    "main.352b0022.js.map": "/Freelance-Portfolio/static/js/main.352b0022.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92095ca.css",
+    "static/js/main.352b0022.js"
+  ]
+}
