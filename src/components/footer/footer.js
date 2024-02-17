@@ -16,7 +16,7 @@ function footer (){
         <li className="social-item"><img src={lk} alt=""/></li>
     </ul>
     <div className="copyright">
-        <p className="copyright-text">© 2024 frontend-dev.com</p>
+        <p className="copyright-text">© 2024</p>
     </div>
   </div>
 </div>
