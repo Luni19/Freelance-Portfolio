@@ -1,0 +1,65 @@
+/* HEADER */
+
+.navigation{
+    background-color: var(--dark-border);
+    padding: 20px 0;
+    border-bottom: 1px solid #26292D;
+    color: var(--white);
+   }
+   .nav-row{
+    display: flex;
+    row-gap: 20px;
+    column-gap: 30px;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   
+   
+   }
+   .logo{
+       color: var(--white);
+       font-family: 'Poppins', sans-serif; 
+       font-size: 24px;
+       font-weight: 400;
+   }
+   .Freelancer-text{
+   font-weight: 700;
+   }
+   .nav-list{
+       font-family: 'Poppins', sans-serif; 
+       display: flex;
+       gap: 40px;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: normal;
+   }
+   
+   
+   .nav-list__link {
+	color: var(--white);
+	transition: opacity 0.2s ease-in;
+}
+
+   .nav-list__link:hover {
+	opacity: 0.8;
+}
+
+   .nav-list__link--active {
+	position: relative;
+   
+   
+   }
+  
+   .nav-list__link--active::before {
+       content: '';
+       
+       position: absolute;
+       left: 0;
+       top: 100%;
+   
+       display: block;
+       height: 2px;
+       width: 100%;
+       background-color: var(--main-color);
+   }
+   
